@@ -1,4 +1,3 @@
-<img width="349" height="772" alt="home_screen" src="https://github.com/user-attachments/assets/4daad4c5-e58a-48cf-ac70-1a3b7ed8f219" />
 # 🌋 Gempa Tracker - Aplikasi Pemantau Gempa BMKG
 
 **Gempa Tracker** adalah aplikasi Android berbasis **Jetpack Compose** yang digunakan untuk memantau aktivitas gempa bumi terkini di Indonesia secara *real-time* menggunakan data resmi dari **BMKG (Badan Meteorologi, Klimatologi, dan Geofisika)**.
