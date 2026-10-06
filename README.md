@@ -8,7 +8,7 @@
 
 | Home Screen | Detail Screen |
 | :---: | :---: |
-| ![Home Screen](screenshots/home_screen.png) | ![Detail Screen](screenshots/detail_screen.png) |
+| ![Home Screen](screenshots/home_screen.jpeg) | ![Detail Screen](screenshots/detail_screen.jpeg) |
 
 ---
 
