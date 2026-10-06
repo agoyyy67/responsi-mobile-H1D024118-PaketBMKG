@@ -9,7 +9,8 @@
 
 | Home Screen | Detail Screen |
 | :---: | :---: |
-| ![Home Screen]<img width="349" height="772" alt="home_screen" src="https://github.com/user-attachments/assets/bc24766b-1906-49d6-b76b-102f9e4aa56b" /> | ![Detail Screen](screenshots/detail_screen.jpeg) |
+| <img width="349" height="772" alt="home_screen" src="https://github.com/user-attachments/assets/bc24766b-1906-49d6-b76b-102f9e4aa56b" /> | <img width="354" height="774" alt="detail_screen" src="https://github.com/user-attachments/assets/12a99ee8-7993-4135-9c8c-70fd42042dad" /> |
+
 
 
 ---
