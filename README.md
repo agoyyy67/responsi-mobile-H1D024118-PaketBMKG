@@ -4,6 +4,8 @@
 
 ---
 
+Link Drive (Vid & APK Debug) : https://drive.google.com/drive/folders/1BkWiPseH2u6vPTS8ApmllY9vae0beEAG?usp=sharing
+
 ## 📸 Screenshots
 
 | Home Screen | Detail Screen |
